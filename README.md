@@ -41,12 +41,16 @@ The course focuses on building a strong foundation in **statistical inference**,
 ## 📂 Repository Structure
 ```
 MITx-18.6501/ 
-│ ├── README.md 
-│ ├── progress/ 
+│
+├── README.md 
+│
+├── progress/ 
 │   └── course_progress.pdf 
-│ ├── notes/ 
+│
+├── notes/ 
 │   └── statistics_key_concepts.md 
-│ └── certificate/ 
+│
+└── certificate/ 
 └── MITx_18.6501_certificate.pdf   (to be added)
 ```
 ---
