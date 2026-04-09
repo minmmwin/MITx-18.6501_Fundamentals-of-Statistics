@@ -51,7 +51,7 @@ MITx-18.6501/
 │   └── statistics_key_concepts.md 
 │
 └── certificate/ 
-└── MITx_18.6501_certificate.pdf   (to be added)
+    └── MITx_18.6501_certificate.pdf   (to be added)
 ```
 ---
 
