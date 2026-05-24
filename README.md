@@ -73,7 +73,7 @@ MITx-18.6501/
 
 ## 🎓 Certificate
 
-- Will be added upon course completion  
+- Verified certificate available in this repository   
 
 ---
 
