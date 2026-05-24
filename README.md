@@ -45,7 +45,9 @@ MITx-18.6501/
 ├── README.md 
 │
 ├── progress/ 
-│   └── course_progress.pdf 
+│   └── Course Progress Apr 2026.pdf
+│   └── Course Progress May 2026.pdf
+│   └── Course Progress Final.pdf 
 │
 ├── notes/ 
 │   └── statistics_key_concepts.md 
